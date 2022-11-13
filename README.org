@@ -1,18 +1,21 @@
-#+TITLE Regolith Setup
-
 
 * Config for the ol' desktop
 
 
 - Config for [[https://regolith-linux.org/][Regolith Desktop]] and other ideas I want to keep building on.
 
-**   For Xresources:
+** For Xresources:
 
 This adds a bunch of things I like. 
 
 A wallpaper stretched and mirrored on the lock screen.
 
-Terminal transparency.
+** Terminal transparency
+
+#+begin_example
+gnome.terminal.use-transparent-background: true
+gnome.terminal.background-transparency-percent: 23
+#+end_example
 
 Put it here: .config/regolith2 or .config/regolith (depending on version)
 
