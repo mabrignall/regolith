@@ -19,7 +19,7 @@ gnome.terminal.background-transparency-percent: 23
 
 Put it here: .config/regolith2 or .config/regolith (depending on version)
 
-**   For pinta.sh:*
+**   For pinta.sh:
 
 Ubuntu Gnome Screenshot doesn't allow editing, wanted a simple way of doing that.
 
