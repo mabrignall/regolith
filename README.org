@@ -19,6 +19,10 @@ gnome.terminal.background-transparency-percent: 23
 
 Put it here: .config/regolith2 or .config/regolith (depending on version)
 
+#+begin_example
+i3-wm.workspace.01.name: 1:<span> </span><span font_desc='RobotoMono Nerd Font 12'>1 </span><span foreground='#5E81AC'></span><span> </span>
+#+end_example
+
 **   For pinta.sh:
 
 Ubuntu Gnome Screenshot doesn't allow editing, wanted a simple way of doing that.
